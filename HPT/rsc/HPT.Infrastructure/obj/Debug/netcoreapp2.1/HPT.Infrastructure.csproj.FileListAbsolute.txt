@@ -1,0 +1,14 @@
+C:\Users\bruni\source\repos\HPT\rsc\HPT.Infrastructure\bin\Debug\netcoreapp2.1\HPT.ApplicationCore.dll
+C:\Users\bruni\source\repos\HPT\rsc\HPT.Infrastructure\obj\Debug\netcoreapp2.1\HPT.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\bruni\source\repos\HPT\rsc\HPT.Infrastructure\obj\Debug\netcoreapp2.1\HPT.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\bruni\source\repos\HPT\rsc\HPT.Infrastructure\obj\Debug\netcoreapp2.1\HPT.Infrastructure.AssemblyInfo.cs
+C:\Users\bruni\source\repos\HPT\rsc\HPT.Infrastructure\obj\Debug\netcoreapp2.1\HPT.Infrastructure.csprojAssemblyReference.cache
+C:\Users\bruni\source\repos\HPT\rsc\HPT.Infrastructure\bin\Debug\netcoreapp2.1\HPT.Infrastructure.deps.json
+C:\Users\bruni\source\repos\HPT\rsc\HPT.Infrastructure\bin\Debug\netcoreapp2.1\HPT.Infrastructure.runtimeconfig.json
+C:\Users\bruni\source\repos\HPT\rsc\HPT.Infrastructure\bin\Debug\netcoreapp2.1\HPT.Infrastructure.runtimeconfig.dev.json
+C:\Users\bruni\source\repos\HPT\rsc\HPT.Infrastructure\bin\Debug\netcoreapp2.1\HPT.Infrastructure.dll
+C:\Users\bruni\source\repos\HPT\rsc\HPT.Infrastructure\bin\Debug\netcoreapp2.1\HPT.Infrastructure.pdb
+C:\Users\bruni\source\repos\HPT\rsc\HPT.Infrastructure\bin\Debug\netcoreapp2.1\HPT.ApplicationCore.pdb
+C:\Users\bruni\source\repos\HPT\rsc\HPT.Infrastructure\obj\Debug\netcoreapp2.1\HPT.Infrastructure.csproj.CopyComplete
+C:\Users\bruni\source\repos\HPT\rsc\HPT.Infrastructure\obj\Debug\netcoreapp2.1\HPT.Infrastructure.dll
+C:\Users\bruni\source\repos\HPT\rsc\HPT.Infrastructure\obj\Debug\netcoreapp2.1\HPT.Infrastructure.pdb

@@ -1,0 +1,9 @@
+C:\Users\bruni\source\repos\HPT\rsc\HPT.ApplicationCore\bin\Debug\netcoreapp2.1\HPT.ApplicationCore.deps.json
+C:\Users\bruni\source\repos\HPT\rsc\HPT.ApplicationCore\bin\Debug\netcoreapp2.1\HPT.ApplicationCore.dll
+C:\Users\bruni\source\repos\HPT\rsc\HPT.ApplicationCore\bin\Debug\netcoreapp2.1\HPT.ApplicationCore.pdb
+C:\Users\bruni\source\repos\HPT\rsc\HPT.ApplicationCore\obj\Debug\netcoreapp2.1\HPT.ApplicationCore.csprojAssemblyReference.cache
+C:\Users\bruni\source\repos\HPT\rsc\HPT.ApplicationCore\obj\Debug\netcoreapp2.1\HPT.ApplicationCore.csproj.CoreCompileInputs.cache
+C:\Users\bruni\source\repos\HPT\rsc\HPT.ApplicationCore\obj\Debug\netcoreapp2.1\HPT.ApplicationCore.AssemblyInfoInputs.cache
+C:\Users\bruni\source\repos\HPT\rsc\HPT.ApplicationCore\obj\Debug\netcoreapp2.1\HPT.ApplicationCore.AssemblyInfo.cs
+C:\Users\bruni\source\repos\HPT\rsc\HPT.ApplicationCore\obj\Debug\netcoreapp2.1\HPT.ApplicationCore.dll
+C:\Users\bruni\source\repos\HPT\rsc\HPT.ApplicationCore\obj\Debug\netcoreapp2.1\HPT.ApplicationCore.pdb
